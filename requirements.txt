@@ -1,0 +1,7 @@
+dash
+plotly
+pandas
+pandas-datareader
+numpy
+dash-bootstrap-components
+alpha_vantage
